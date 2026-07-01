@@ -1,0 +1,19 @@
+# Maven
+target/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Compiled Java classes
+*.class
+
+# Logs
+*.log
