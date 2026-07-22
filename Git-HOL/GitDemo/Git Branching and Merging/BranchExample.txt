@@ -1,0 +1,6 @@
+Git Branching and Merging Hands-on
+
+This file is created inside GitNewBranch.
+
+This demonstrates creating a branch,
+making changes, and merging with main branch.
