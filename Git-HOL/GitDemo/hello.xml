@@ -1,4 +1,9 @@
 <message>
+<<<<<<< HEAD
 Hello from main branch
 This change is made in master
+=======
+Hello from GitWork branch
+This change is made in branch
+>>>>>>> GitWork
 </message>
